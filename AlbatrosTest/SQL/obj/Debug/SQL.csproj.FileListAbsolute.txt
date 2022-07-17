@@ -1,0 +1,9 @@
+C:\Users\Victor\source\repos\albatros\AlbatrosTest\SQL\bin\Debug\SQL.dll
+C:\Users\Victor\source\repos\albatros\AlbatrosTest\SQL\bin\Debug\SQL.pdb
+C:\Users\Victor\source\repos\albatros\AlbatrosTest\SQL\obj\Debug\SQL.csproj.AssemblyReference.cache
+C:\Users\Victor\source\repos\albatros\AlbatrosTest\SQL\obj\Debug\SQL.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\albatros\AlbatrosTest\SQL\obj\Debug\SQL.dll
+C:\Users\Victor\source\repos\albatros\AlbatrosTest\SQL\obj\Debug\SQL.pdb
+C:\Users\Victor\source\repos\albatros\AlbatrosTest\SQL\bin\Debug\SQL.dll.config
+C:\Users\Victor\source\repos\albatros\AlbatrosTest\SQL\obj\Debug\SQL.Properties.Resources.resources
+C:\Users\Victor\source\repos\albatros\AlbatrosTest\SQL\obj\Debug\SQL.csproj.GenerateResource.cache

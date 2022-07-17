@@ -1,0 +1,10 @@
+C:\Users\Victor\source\repos\albatros\AlbatrosTest\Productos\bin\Debug\Productos.dll
+C:\Users\Victor\source\repos\albatros\AlbatrosTest\Productos\bin\Debug\Productos.pdb
+C:\Users\Victor\source\repos\albatros\AlbatrosTest\Productos\bin\Debug\SQL.dll
+C:\Users\Victor\source\repos\albatros\AlbatrosTest\Productos\bin\Debug\SQL.pdb
+C:\Users\Victor\source\repos\albatros\AlbatrosTest\Productos\obj\Debug\Productos.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\albatros\AlbatrosTest\Productos\obj\Debug\Productos.csproj.CopyComplete
+C:\Users\Victor\source\repos\albatros\AlbatrosTest\Productos\obj\Debug\Productos.dll
+C:\Users\Victor\source\repos\albatros\AlbatrosTest\Productos\obj\Debug\Productos.pdb
+C:\Users\Victor\source\repos\albatros\AlbatrosTest\Productos\obj\Debug\Productos.csproj.AssemblyReference.cache
+C:\Users\Victor\source\repos\albatros\AlbatrosTest\Productos\bin\Debug\SQL.dll.config
